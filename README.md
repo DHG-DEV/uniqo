@@ -132,11 +132,11 @@ The backend handles:
 The application follows a repository-based architecture where the UI communicates with the repository layer, which handles backend operations through Supabase.
 
 UI / Jetpack Compose
-        ↓
+        ⟹
 UniqoRepository
-        ↓
+        ⟹
 SupabaseRepository
-        ↓
+        ⟹
 Supabase
-        ↓
+        ⟹
 PostgreSQL / Storage / Edge Functions
