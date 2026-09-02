@@ -1,4 +1,4 @@
-ᴍᴀᴠᴇʀɪxᴋ presents to you, UniQo.
+𝐌𝐀𝐕𝐄𝐑𝐈𝐗𝐊 presents to you, UniQo.
 UniQo is a student-focused Android platform designed to bring the college community together in one place.
 It combines a student marketplace, roommate discovery, real-time communication, profiles, ratings, favorites, and other student-focused features into a single application.
 
